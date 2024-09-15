@@ -63,7 +63,8 @@ body > main article {
 
 
 form {
-    text-align: end;
+    text-align: center;
+    
 }
 
 h2 {
@@ -81,6 +82,11 @@ body > footer {
 img {
     border-radius: 100%;
 }
+
+img{
+    size: 20px;
+}
+
 
 #footer-ul{
     display: flex;
